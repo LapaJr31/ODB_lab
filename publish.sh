@@ -14,7 +14,7 @@ cd docs/.vuepress/dist
 
 git init
 git add -A
-git commit -m 'another deploy'
+git commit -m 'another one'
 
 # if you are deploying to https://<USERNAME>.github.io
 # git push -f git@github.com:LapaJr31/edu_db_labs.git master
