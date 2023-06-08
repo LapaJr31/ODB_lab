@@ -1,4 +1,12 @@
 # Тестування працездатності системи
+![Alt text](image.png)
 
-*В цьому розділі необхідно вказати засоби тестування, навести вихідні коди тестів та результати тестування.*
+![Alt text](image-1.png)
 
+![Alt text](image-2.png)
+
+![Alt text](image-3.png)
+
+![Alt text](image-4.png)
+
+![Alt text](image-5.png)
